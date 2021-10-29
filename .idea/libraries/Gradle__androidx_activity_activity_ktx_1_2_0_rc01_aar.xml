@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity-ktx:1.2.0-rc01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/09523a6d64dd48dfb2af4702c2e7ffd1/activity-ktx-1.2.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/09523a6d64dd48dfb2af4702c2e7ffd1/activity-ktx-1.2.0-rc01/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/09523a6d64dd48dfb2af4702c2e7ffd1/activity-ktx-1.2.0-rc01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09523a6d64dd48dfb2af4702c2e7ffd1/activity-ktx-1.2.0-rc01/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09523a6d64dd48dfb2af4702c2e7ffd1/activity-ktx-1.2.0-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09523a6d64dd48dfb2af4702c2e7ffd1/activity-ktx-1.2.0-rc01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.2.0-rc01/827664f9421e56e79f9eed7223ba4a5d67d941c2/activity-ktx-1.2.0-rc01-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.2.0-rc01/827664f9421e56e79f9eed7223ba4a5d67d941c2/activity-ktx-1.2.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-reactivestreams:2.3.0-rc01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/a7b4efcc7c8ff2ee67f8a06a1429883b/lifecycle-reactivestreams-2.3.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/a7b4efcc7c8ff2ee67f8a06a1429883b/lifecycle-reactivestreams-2.3.0-rc01/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/a7b4efcc7c8ff2ee67f8a06a1429883b/lifecycle-reactivestreams-2.3.0-rc01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7b4efcc7c8ff2ee67f8a06a1429883b/lifecycle-reactivestreams-2.3.0-rc01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7b4efcc7c8ff2ee67f8a06a1429883b/lifecycle-reactivestreams-2.3.0-rc01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7b4efcc7c8ff2ee67f8a06a1429883b/lifecycle-reactivestreams-2.3.0-rc01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-reactivestreams/2.3.0-rc01/31df3402f1e5e287cb5b0e7d9568f100871588f3/lifecycle-reactivestreams-2.3.0-rc01-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-reactivestreams/2.3.0-rc01/31df3402f1e5e287cb5b0e7d9568f100871588f3/lifecycle-reactivestreams-2.3.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

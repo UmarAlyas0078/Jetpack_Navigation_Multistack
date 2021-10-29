@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.hilt:hilt-navigation:1.0.0-alpha03@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/9480e03eaa9b1df6622b4a6cbdbe1153/hilt-navigation-1.0.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/9480e03eaa9b1df6622b4a6cbdbe1153/hilt-navigation-1.0.0-alpha03/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/9480e03eaa9b1df6622b4a6cbdbe1153/hilt-navigation-1.0.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9480e03eaa9b1df6622b4a6cbdbe1153/hilt-navigation-1.0.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9480e03eaa9b1df6622b4a6cbdbe1153/hilt-navigation-1.0.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9480e03eaa9b1df6622b4a6cbdbe1153/hilt-navigation-1.0.0-alpha03/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/modules-2/files-2.1/androidx.hilt/hilt-navigation/1.0.0-alpha03/cfe67e1b526a3db8d74fb36a4ebe89e2d531a154/hilt-navigation-1.0.0-alpha03-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.hilt/hilt-navigation/1.0.0-alpha03/cfe67e1b526a3db8d74fb36a4ebe89e2d531a154/hilt-navigation-1.0.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

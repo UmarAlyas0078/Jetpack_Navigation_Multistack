@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common:2.3.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/4fd1109d006e34e1e1278aa79b56dc65/navigation-common-2.3.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/4fd1109d006e34e1e1278aa79b56dc65/navigation-common-2.3.3/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/4fd1109d006e34e1e1278aa79b56dc65/navigation-common-2.3.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fd1109d006e34e1e1278aa79b56dc65/navigation-common-2.3.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fd1109d006e34e1e1278aa79b56dc65/navigation-common-2.3.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fd1109d006e34e1e1278aa79b56dc65/navigation-common-2.3.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.3.3/54fdad7d85870fcafa4a103065b329e959dcd43/navigation-common-2.3.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.3.3/54fdad7d85870fcafa4a103065b329e959dcd43/navigation-common-2.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

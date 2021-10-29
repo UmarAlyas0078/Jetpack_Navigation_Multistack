@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-rc01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/c7199ccdda63bfa5ea599a396e03148d/lifecycle-viewmodel-savedstate-2.3.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/c7199ccdda63bfa5ea599a396e03148d/lifecycle-viewmodel-savedstate-2.3.0-rc01/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/transforms-2/files-2.1/c7199ccdda63bfa5ea599a396e03148d/lifecycle-viewmodel-savedstate-2.3.0-rc01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7199ccdda63bfa5ea599a396e03148d/lifecycle-viewmodel-savedstate-2.3.0-rc01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7199ccdda63bfa5ea599a396e03148d/lifecycle-viewmodel-savedstate-2.3.0-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7199ccdda63bfa5ea599a396e03148d/lifecycle-viewmodel-savedstate-2.3.0-rc01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Github/smsscheduler/codecanyon-11558382-sms-scheduler/dmbteam_sms_scheduler_v1.2/dmbteam_sms_scheduler_v1.2/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.3.0-rc01/411f92301435123d502de27b6f3262c062f3bd7a/lifecycle-viewmodel-savedstate-2.3.0-rc01-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.3.0-rc01/411f92301435123d502de27b6f3262c062f3bd7a/lifecycle-viewmodel-savedstate-2.3.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
